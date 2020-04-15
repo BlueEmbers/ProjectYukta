@@ -2,4 +2,23 @@
 <libraryInfos>
     <libraryInfo home="C:\Program Files\Amazon Corretto\jdk11.0.4_10" version="11.0.4"/>
     <libraryInfo home="C:\Users\Kurama\Desktop\eclipse\jdk-13.0.1" version="13.0.1"/>
+    <libraryInfo home="C:\Users\Kurama\Desktop\eclipse\jdk1.8.0_131" version="1.8.0_131">
+        <bootpath>
+            <entry path="C:\Users\Kurama\Desktop\eclipse\jdk1.8.0_131\jre\lib\resources.jar"/>
+            <entry path="C:\Users\Kurama\Desktop\eclipse\jdk1.8.0_131\jre\lib\rt.jar"/>
+            <entry path="C:\Users\Kurama\Desktop\eclipse\jdk1.8.0_131\jre\lib\sunrsasign.jar"/>
+            <entry path="C:\Users\Kurama\Desktop\eclipse\jdk1.8.0_131\jre\lib\jsse.jar"/>
+            <entry path="C:\Users\Kurama\Desktop\eclipse\jdk1.8.0_131\jre\lib\jce.jar"/>
+            <entry path="C:\Users\Kurama\Desktop\eclipse\jdk1.8.0_131\jre\lib\charsets.jar"/>
+            <entry path="C:\Users\Kurama\Desktop\eclipse\jdk1.8.0_131\jre\lib\jfr.jar"/>
+            <entry path="C:\Users\Kurama\Desktop\eclipse\jdk1.8.0_131\jre\classes"/>
+        </bootpath>
+        <extensionDirs>
+            <entry path="C:\Users\Kurama\Desktop\eclipse\jdk1.8.0_131\jre\lib\ext"/>
+            <entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+        </extensionDirs>
+        <endorsedDirs>
+            <entry path="C:\Users\Kurama\Desktop\eclipse\jdk1.8.0_131\jre\lib\endorsed"/>
+        </endorsedDirs>
+    </libraryInfo>
 </libraryInfos>
