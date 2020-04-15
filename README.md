@@ -13,3 +13,5 @@ The Designated Robot Companion Boyfriend expansion pack 4. Click this to feel ha
 The Designated Robot Companion Boyfriend expansion pack 5 Humans dont have rights! Episode 6 - April - 08 - 2020
 
 The Designated Robot Companion Boyfriend expansion pack 6 I don't like butts! Episode 7 - April - 09 - 2020
+
+The Designated Robot Companion Boyfriend expansion pack 7 A poem for my only. Episode 8 - April - 15 - 2020
