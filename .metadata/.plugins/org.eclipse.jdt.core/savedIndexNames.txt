@@ -1,15 +1,8 @@
 INDEX VERSION 1.131+C:\Users\Kurama\ProjectYukta\.metadata\.plugins\org.eclipse.jdt.core
-2505633841.index
-1217073530.index
-2602293489.index
 3845260478.index
-188507538.index
 206676363.index
-778422991.index
-4055294271.index
-172738311.index
+2505633841.index
 2452960296.index
-1107857097.index
-1488513618.index
 2069270813.index
-2574675083.index
+3797926055.index
+188507538.index

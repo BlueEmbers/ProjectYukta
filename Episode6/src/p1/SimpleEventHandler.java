@@ -129,6 +129,14 @@ public class SimpleEventHandler implements EventHandler
 			}
 			else if(label.getText().equals("Hope your year will be amazing!"))
 			{
+				label.setText("I know it's hard right now...");
+			}
+			else if(label.getText().equals("I know it's hard right now..."))
+			{
+				label.setText("But things will get better. Promise!");
+			}
+			else if(label.getText().equals("But things will get better. Promise!"))
+			{
 				System.exit(0);
 			}
 			
